@@ -1,18 +1,18 @@
 {
-    "pomme":{
-        "traduction":"apple",
-        "reponse1":"pineapple",
-        "reponse2":"apfel",
-        "reponse3":"pear",
-        "position":null,
-        "reussites":null
-    },
-    "banane":{
-        "traduction":"banana",
-        "reponse1":"apple",
-        "reponse2":"tea",
-        "reponse3":"pear",
-        "position":null,
-        "reussites":null
-    }
+  "pomme": {
+    "reponse1": "apple",
+    "reponse2": "pineapple",
+    "reponse3": "apfel",
+    "reponse4": "pear",
+    "position": null,
+    "reussites": null
+  },
+  "banane": {
+    "reponse1": "banana",
+    "reponse2": "apple",
+    "reponse3": "tea",
+    "reponse4": "pear",
+    "position": null,
+    "reussites": null
+  }
 }
