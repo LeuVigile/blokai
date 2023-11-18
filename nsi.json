@@ -1,4 +1,6 @@
 {
-    "pomme":{"reponse1":"apple","reponse2":"pineapple","reponse3":"apfel","reponse4":"pear","position":null,"reussites":null},
-    "banane":{"reponse1":"banana","reponse2":"apple","reponse3":"tea","reponse4":"pear","position":null,"reussites":null}
+    "fruits": {
+        "pomme":{"reponse1":"apple","reponse2":"pineapple","reponse3":"apfel","reponse4":"pear","position":null,"reussites":null},
+        "banane":{"reponse1":"banana","reponse2":"apple","reponse3":"tea","reponse4":"pear","position":null,"reussites":null}
+    }
 }
