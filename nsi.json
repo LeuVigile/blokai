@@ -1,5 +1,5 @@
 {
-    "fruits": {
+    "fruits": [
         "pomme":{"reponse1":"apple","reponse2":"pineapple","reponse3":"apfel","reponse4":"pear","position":null,"reussites":null},
         "banane":{"reponse1":"banana","reponse2":"apple","reponse3":"tea","reponse4":"pear","position":null,"reussites":null}
         "cerise":{"reponse1":"cherry","reponse2":"banana","reponse3":"kiwi","reponse4":"chery","position":null,"reussites":null},
@@ -10,5 +10,24 @@
         "orange":{"reponse1":"orange","reponse2":"lemon","reponse3":"juice","reponse4":"pear","position":null,"reussites":null},
         "poire":{"reponse1":"pear","reponse2":"pineapple","reponse3":"apple","reponse4":"melon","position":null,"reussites":null},
         "melon":{"reponse1":"melon","reponse2":"lemon","reponse3":"citrus","reponse4":"kiwi","position":null,"reussites":null},
-    }
+        "prune":{"reponse1":"plum","reponse2":"pear","reponse3":"cherry","reponse4":"quince","position":null,"reussites":null},
+        "abricot":{"reponse1":"apricot","reponse2":"abricot","reponse3":"lemon","reponse4":"lime","position":null,"reussites":null},
+        "peche":{"reponse1":"peach","reponse2":"plum","reponse3":"apple","reponse4":"avocado","position":null,"reussites":null},
+        "framboise":{"reponse1":"raspberry","reponse2":"blueberry","reponse3":"strawberry","reponse4":"gooseberry","position":null,"reussites":null},
+        "mangue":{"reponse1":"mango","reponse2":"coconut","reponse3":"fig","reponse4":"pomegranate","position":null,"reussites":null},
+        
+    ]
+    "animaux": [
+        "chien":{"reponse1":"dog","reponse2":"cat","reponse3":"doggy","reponse4":"lion","position":null,"reussites":null},
+        "chat":{"reponse1":"cat","reponse2":"dog","reponse3":"tiger","reponse4":"cow","position":null,"reussites":null},
+        "tigre":{"reponse1":"tiger","reponse2":"cat","reponse3":"lion","reponse4":"giraffe","position":null,"reussites":null},
+        "pieuvre":{"reponse1":"octopus","reponse2":"tortoise","reponse3":"dolphin","reponse4":"shark","position":null,"reussites":null},
+        "requin":{"reponse1":"shark","reponse2":"tuna","reponse3":"shrimp","reponse4":"whale","position":null,"reussites":null},
+        "araignée":{"reponse1":"spider","reponse2":"hornet","reponse3":"snail","reponse4":"dragonfly","position":null,"reussites":null},
+        "escargot":{"reponse1":"snail","reponse2":"snake","reponse3":"worm","reponse4":"ant","position":null,"reussites":null},
+        "canard":{"reponse1":"duck","reponse2":"chicken","reponse3":"goat","reponse4":"pig","position":null,"reussites":null},
+        "lapin":{"reponse1":"rabbit","reponse2":"pig","reponse3":"cow","reponse4":"mouse","position":null,"reussites":null},
+        "baleine":{"reponse1":"whale","reponse2":"shark","reponse3":"eel","reponse4":"shrimp","position":null,"reussites":null},
+        "zebre":{"reponse1":"zebra","reponse2":"lion","reponse3":"monkey","reponse4":"puppy","position":null,"reussites":null},
+    ]
 }
