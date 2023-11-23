@@ -2,5 +2,16 @@
     "fruits": {
         "pomme":{"reponse1":"apple","reponse2":"pineapple","reponse3":"apfel","reponse4":"pear","position":null,"reussites":null},
         "banane":{"reponse1":"banana","reponse2":"apple","reponse3":"tea","reponse4":"pear","position":null,"reussites":null}
+        "cerise":{"reponse1":"cherry","reponse2":"banana","reponse3":"kiwi","reponse4":"chery","position":null,"reussites":null},
+        "ananas":{"reponse1":"pineapple","reponse2":"apple","reponse3":"pinneapfel","reponse4":"pinnapple","position":null,"reussites":null},
+        "avocat":{"reponse1":"avocado","reponse2":"cherry","reponse3":"avocadot","reponse4":"tomato","position":null,"reussites":null},
+        "citron":{"reponse1":"lemon","reponse2":"citrus","reponse3":"pineapple","reponse4":"melon","position":null,"reussites":null},
+        "fraise":{"reponse1":"strawberry","reponse2":"berry","reponse3":"cherry","reponse4":"strobery","position":null,"reussites":null},
+        "orange":{"reponse1":"orange","reponse2":"lemon","reponse3":"juice","reponse4":"pear","position":null,"reussites":null},
+        "poire":{"reponse1":"pear","reponse2":"pineapple","reponse3":"apple","reponse4":"melon","position":null,"reussites":null},
+        "melon":{"reponse1":"melon","reponse2":"lemon","reponse3":"citrus","reponse4":"kiwi","position":null,"reussites":null},
+    }
+    "animaux" : {
+        
     }
 }
