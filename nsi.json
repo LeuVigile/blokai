@@ -18,16 +18,20 @@
         
     ]
     "animaux": [
-        "chien":{"reponse1":"dog","reponse2":"cat","reponse3":"doggy","reponse4":"lion","position":null,"reussites":null},
-        "chat":{"reponse1":"cat","reponse2":"dog","reponse3":"tiger","reponse4":"cow","position":null,"reussites":null},
-        "tigre":{"reponse1":"tiger","reponse2":"cat","reponse3":"lion","reponse4":"giraffe","position":null,"reussites":null},
-        "pieuvre":{"reponse1":"octopus","reponse2":"tortoise","reponse3":"dolphin","reponse4":"shark","position":null,"reussites":null},
-        "requin":{"reponse1":"shark","reponse2":"tuna","reponse3":"shrimp","reponse4":"whale","position":null,"reussites":null},
-        "araignée":{"reponse1":"spider","reponse2":"hornet","reponse3":"snail","reponse4":"dragonfly","position":null,"reussites":null},
-        "escargot":{"reponse1":"snail","reponse2":"snake","reponse3":"worm","reponse4":"ant","position":null,"reussites":null},
-        "canard":{"reponse1":"duck","reponse2":"chicken","reponse3":"goat","reponse4":"pig","position":null,"reussites":null},
-        "lapin":{"reponse1":"rabbit","reponse2":"pig","reponse3":"cow","reponse4":"mouse","position":null,"reussites":null},
-        "baleine":{"reponse1":"whale","reponse2":"shark","reponse3":"eel","reponse4":"shrimp","position":null,"reussites":null},
-        "zebre":{"reponse1":"zebra","reponse2":"lion","reponse3":"monkey","reponse4":"puppy","position":null,"reussites":null},
+        {"nom":"chien","reponse1":"dog","reponse2":"cat","reponse3":"doggy","reponse4":"lion","position":null,"reussites":null},
+        {"nom":"chat","reponse1":"cat","reponse2":"dog","reponse3":"tiger","reponse4":"cow","position":null,"reussites":null},
+        {"nom":"tigre","reponse1":"tiger","reponse2":"cat","reponse3":"lion","reponse4":"giraffe","position":null,"reussites":null},
+        {"nom":"pieuvre","reponse1":"octopus","reponse2":"tortoise","reponse3":"dolphin","reponse4":"shark","position":null,"reussites":null},
+        {"nom":"requin","reponse1":"shark","reponse2":"tuna","reponse3":"shrimp","reponse4":"whale","position":null,"reussites":null},
+        {"nom":"araignée","reponse1":"spider","reponse2":"hornet","reponse3":"snail","reponse4":"dragonfly","position":null,"reussites":null},
+        {"nom":"escargot","reponse1":"snail","reponse2":"snake","reponse3":"worm","reponse4":"ant","position":null,"reussites":null},
+        {"nom":"canard","reponse1":"duck","reponse2":"chicken","reponse3":"goat","reponse4":"pig","position":null,"reussites":null},
+        {"nom":"lapin","reponse1":"rabbit","reponse2":"pig","reponse3":"cow","reponse4":"mouse","position":null,"reussites":null},
+        {"nom":"baleine","reponse1":"whale","reponse2":"shark","reponse3":"eel","reponse4":"shrimp","position":null,"reussites":null},
+        {"nom":"zebre","reponse1":"zebra","reponse2":"lion","reponse3":"monkey","reponse4":"puppy","position":null,"reussites":null},
+        {"nom":"méduse","reponse1":"jellyfish","reponse2":"eel","reponse3":"shrimp","reponse4":"octopus","position":null,"reussites":null},
+        {"nom":"perroquet","reponse1":"parrot","reponse2":"snake","reponse3":"dolphin","reponse4":"bird","position":null,"reussites":null},
+        {"nom":"scarabée","reponse1":"cockroach","reponse2":"tuna","reponse3":"duck","reponse4":"puppy","position":null,"reussites":null},
+        {"nom":"aigle","reponse1":"eagle","reponse2":"tortoise","reponse3":"mouse","reponse4":"snail","position":null,"reussites":null},
     ]
 }
