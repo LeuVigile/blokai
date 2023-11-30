@@ -34,4 +34,7 @@
         {"nom":"scarabée","reponse1":"cockroach","reponse2":"tuna","reponse3":"duck","reponse4":"puppy"},
         {"nom":"aigle","reponse1":"eagle","reponse2":"tortoise","reponse3":"mouse","reponse4":"snail"},
     ]
+    "lieux" : [
+        {"nom":"hopital","reponse1":"hospital","reponse2":"square","reponse3":"bookshop","reponse4":"airport"},
+    ]
 }
