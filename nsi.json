@@ -14,7 +14,7 @@
         {"nom":"abricot","reponse1":"apricot","reponse2":"abricot","reponse3":"lemon","reponse4":"lime"},
         {"nom":"peche","reponse1":"peach","reponse2":"plum","reponse3":"apple","reponse4":"avocado"},
         {"nom":"framboise","reponse1":"raspberry","reponse2":"blueberry","reponse3":"strawberry","reponse4":"gooseberry"},
-        {"nom":"mangue","reponse1":"mango","reponse2":"coconut","reponse3":"fig","reponse4":"pomegranate"},
+        {"nom":"mangue","reponse1":"mango","reponse2":"coconut","reponse3":"fig","reponse4":"pomegranate"}
     ],
     "animaux": [
         {"nom":"chien","reponse1":"dog","reponse2":"cat","reponse3":"doggy","reponse4":"lion"},
@@ -31,9 +31,9 @@
         {"nom":"méduse","reponse1":"jellyfish","reponse2":"eel","reponse3":"shrimp","reponse4":"octopus"},
         {"nom":"perroquet","reponse1":"parrot","reponse2":"snake","reponse3":"dolphin","reponse4":"bird"},
         {"nom":"scarabée","reponse1":"cockroach","reponse2":"tuna","reponse3":"duck","reponse4":"puppy"},
-        {"nom":"aigle","reponse1":"eagle","reponse2":"tortoise","reponse3":"mouse","reponse4":"snail"},
+        {"nom":"aigle","reponse1":"eagle","reponse2":"tortoise","reponse3":"mouse","reponse4":"snail"}
     ],
     "lieux" : [
-        {"nom":"hopital","reponse1":"hospital","reponse2":"square","reponse3":"bookshop","reponse4":"airport"},
-    ],
+        {"nom":"hopital","reponse1":"hospital","reponse2":"square","reponse3":"bookshop","reponse4":"airport"}
+    ]
 }
