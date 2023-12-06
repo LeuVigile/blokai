@@ -15,7 +15,6 @@
         {"nom":"peche","reponse1":"peach","reponse2":"plum","reponse3":"apple","reponse4":"avocado"},
         {"nom":"framboise","reponse1":"raspberry","reponse2":"blueberry","reponse3":"strawberry","reponse4":"gooseberry"},
         {"nom":"mangue","reponse1":"mango","reponse2":"coconut","reponse3":"fig","reponse4":"pomegranate"},
-        
     ]
     "animaux": [
         {"nom":"chien","reponse1":"dog","reponse2":"cat","reponse3":"doggy","reponse4":"lion"},
