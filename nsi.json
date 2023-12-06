@@ -1,7 +1,7 @@
 {
     "fruits": [
         {"nom":"pomme","reponse1":"apple","reponse2":"pineapple","reponse3":"apfel","reponse4":"pear"},
-        {"nom":"banane","reponse1":"banana","reponse2":"apple","reponse3":"tea","reponse4":"pear"}
+        {"nom":"banane","reponse1":"banana","reponse2":"apple","reponse3":"tea","reponse4":"pear"},
         {"nom":"cerise","reponse1":"cherry","reponse2":"banana","reponse3":"kiwi","reponse4":"chery"},
         {"nom":"ananas","reponse1":"pineapple","reponse2":"apple","reponse3":"pinneapfel","reponse4":"pinnapple"},
         {"nom":"avocat","reponse1":"avocado","reponse2":"cherry","reponse3":"avocadot","reponse4":"tomato"},
