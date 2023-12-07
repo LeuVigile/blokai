@@ -34,6 +34,19 @@
         {"nom":"aigle","reponse1":"eagle","reponse2":"tortoise","reponse3":"mouse","reponse4":"snail"}
     ],
     "lieux" : [
-        {"nom":"hopital","reponse1":"hospital","reponse2":"square","reponse3":"bookshop","reponse4":"airport"}
+        {"nom":"hopital","reponse1":"hospital","reponse2":"square","reponse3":"bookshop","reponse4":"airport"},
+        {"nom":"mairie","reponse1":"city hall","reponse2":"house","reponse3":"office","reponse4":"subway station"},
+        {"nom":"ecole","reponse1":"school","reponse2":"gym","reponse3":"mall","reponse4":"park"},
+        {"nom":"eglise","reponse1":"church","reponse2":"hotel","reponse3":"flat","reponse4":"building"},
+        {"nom":"poste de police","reponse1":"police station","reponse2":"post office","reponse3":"city hall","reponse4":"clothing shop"},
+        {"nom":"caserne de pompiers","reponse1":"fire station","reponse2":"pedestrian crossing","reponse3":"suburbs","reponse4":"youth hostel"},
+        {"nom":"boulangerie","reponse1":"bakery","reponse2":"bank","reponse3":"city centre","reponse4":"neighbourhood"},
+        {"nom":"banque","reponse1":"bank","reponse2":"bakery","reponse3":"square","reponse4":"church"},
+        {"nom":"supermarche","reponse1":"supermarket","reponse2":"nightclub","reponse3":"clothing shop","reponse4":"mall"},
+        {"nom":"aeroport","reponse1":"airport","reponse2":"police station","reponse3":"park","reponse4":"metro station"},
+        {"nom":"restaurant","reponse1":"restaurant","reponse2":"square","reponse3":"hotel","reponse4":"bakery"},
+        {"nom":"cafe","reponse1":"cafe","reponse2":"gym","reponse3":"city centre","reponse4":"post office"},
+        {"nom":"station essence","reponse1":"gas station","reponse2":"metro station","reponse3":"subway station","reponse4":"police station"},
+        {"nom":"centrale electrique","reponse1":"power plant","reponse2":"square","reponse3":"mall","reponse4":"pedestrian crossing"},
     ]
 }
