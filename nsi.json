@@ -47,6 +47,6 @@
         {"nom":"restaurant","reponse1":"restaurant","reponse2":"square","reponse3":"hotel","reponse4":"bakery"},
         {"nom":"cafe","reponse1":"cafe","reponse2":"gym","reponse3":"city centre","reponse4":"post office"},
         {"nom":"station essence","reponse1":"gas station","reponse2":"metro station","reponse3":"subway station","reponse4":"police station"},
-        {"nom":"centrale electrique","reponse1":"power plant","reponse2":"square","reponse3":"mall","reponse4":"pedestrian crossing"},
+        {"nom":"centrale electrique","reponse1":"power plant","reponse2":"square","reponse3":"mall","reponse4":"pedestrian crossing"}
     ]
 }
