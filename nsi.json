@@ -30,7 +30,7 @@
         {"nom":"zebre","reponse1":"zebra","reponse2":"lion","reponse3":"monkey","reponse4":"puppy"},
         {"nom":"méduse","reponse1":"jellyfish","reponse2":"eel","reponse3":"shrimp","reponse4":"octopus"},
         {"nom":"perroquet","reponse1":"parrot","reponse2":"snake","reponse3":"dolphin","reponse4":"bird"},
-        {"nom":"scarabée","reponse1":"cockroach","reponse2":"tuna","reponse3":"duck","reponse4":"puppy"},
+        {"nom":"scarabée","reponse1":"beetle","reponse2":"tuna","reponse3":"duck","reponse4":"puppy"},
         {"nom":"aigle","reponse1":"eagle","reponse2":"tortoise","reponse3":"mouse","reponse4":"snail"}
     ],
     "lieux" : [
@@ -49,5 +49,22 @@
         {"nom":"station essence","reponse1":"gas station","reponse2":"metro station","reponse3":"subway station","reponse4":"police station"},
         {"nom":"centrale electrique","reponse1":"power plant","reponse2":"square","reponse3":"mall","reponse4":"pedestrian crossing"},
         {"nom":"bureau de poste","reponse1":"post office","reponse2":"offices","reponse3":"bakery","reponse4":"church"}
+    ],
+    "noel" : [
+        {"nom":"noel","reponse1":"christmas","reponse2":"sack","reponse3":"reindeer","reponse4":"winter"},
+        {"nom":"le pere noel","reponse1":"santa claus","reponse2":"snow","reponse3":"chimney","reponse4":"sleight"},
+        {"nom":"un reine","reponse1":"reindeer","reponse2":"elve","reponse3":"candle","reponse4":"bell"},
+        {"nom":"jouets","reponse1":"toys","reponse2":"star","reponse3":"ribbon","reponse4":"present"},
+        {"nom":"cadeau","reponse1":"present","reponse2":"candy","reponse3":"stocking","reponse4":"sack"},
+        {"nom":"sapin de noel","reponse1":"christmas tree","reponse2":"christmas ornaments","reponse3":"christmas garland","reponse4":"christmas bauble"},
+        {"nom":"le gui","reponse1":"mistletoe","reponse2":"snow","reponse3":"toys","reponse4":"holly"},
+        {"nom":"la neige","reponse1":"snow","reponse2":"ribbon","reponse3":"santa claus","reponse4":"winter"},
+        {"nom":"joyeux noel","reponse1":"merry christmas","reponse2":"christmas tree","reponse3":"christmas ornaments","reponse4":"chirstmas garland"},
+        {"nom":"calendrier de l'avent","reponse1":"advent calendar","reponse2":"stocking","reponse3":"elve","reponse4":"bell"},
+        {"nom":"elfes","reponse1":"elves","reponse2":"gift","reponse3":"reindeer","reponse4":"sack"},
+        {"nom":"bonhomme de neige","reponse1":"snowman","reponse2":"snow","reponse3":"winter","reponse4":"chimney"},
+        {"nom":"cheminee","reponse1":"chimney","reponse2":"sleight","reponse3":"ribbon","reponse4":"star"},
+        {"nom":"traineau","reponse1":"sleight","reponse2":"merry christmas","reponse3":"toys","reponse4":"bell"},
+        {"nom":"une hotte","reponse1":"holly","reponse2":"star","reponse3":"bell","reponse4":"candle"}
     ]
 }
