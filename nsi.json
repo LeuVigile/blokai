@@ -65,6 +65,23 @@
         {"nom":"bonhomme de neige","reponse1":"snowman","reponse2":"snow","reponse3":"winter","reponse4":"chimney"},
         {"nom":"cheminee","reponse1":"chimney","reponse2":"sleight","reponse3":"ribbon","reponse4":"star"},
         {"nom":"traineau","reponse1":"sleight","reponse2":"merry christmas","reponse3":"toys","reponse4":"bell"},
-        {"nom":"une hotte","reponse1":"holly","reponse2":"star","reponse3":"bell","reponse4":"candle"}
+        {"nom":"une hotte","reponse1":"holly","reponse2":"star","reponse3":"bell","reponse4":"candle"},
+    ],
+    "ecole": [
+        {"nom":"ecole","reponse1":"school","reponse2":"class","reponse3":"teacher","reponse4":"truant"},
+        {"nom":"directeur","reponse1":"principal","reponse2":"pupil","reponse3":"student","reponse4":"lesson"},
+        {"nom":"eleve","reponse1":"pupil","reponse2":"semester","reponse3":"holydays","reponse4":"timetable"},
+        {"nom":"devoirs","reponse1":"homeworks","reponse2":"answer","reponse3":"certificate","reponse4":"essay"},
+        {"nom":"professeur","reponse1":"teacher","reponse2":"problem","reponse3":"question","reponse4":"test"},
+        {"nom":"cartable","reponse1":"schoolbag","reponse2":"ruler","reponse3":"book","reponse4":"college"},
+        {"nom":"classe","reponse1":"classroom","reponse2":"class","reponse3":"school","reponse4":"term"},
+        {"nom":"vacances","reponse1":"holydays","reponse2":"exercise","reponse3":"pen","reponse4":"blackboard"},
+        {"nom":"note","reponse1":"mark","reponse2":"ink","reponse3":"ruler","reponse4":"semester"},
+        {"nom":"crayon","reponse1":"pencil","reponse2":"pen","reponse3":"scissors","reponse4":"notebook"},
+        {"nom":"stylo","reponse1":"pen","reponse2":"pencil","reponse3":"cherry","reponse4":"quince"},
+        {"nom":"diplome","reponse1":"degree","reponse2":"result","reponse3":"essay","reponse4":"certificate"},
+        {"nom":"bulletin de notes","reponse1":"school report","reponse2":"mistake","reponse3":"free periode","reponse4":"class"},
+        {"nom":"faute/erreur","reponse1":"mistake","reponse2":"report","reponse3":"student","reponse4":"pen"},
+        {"nom":"regle","reponse1":"ruler","reponse2":"mark","reponse3":"timetable","reponse4":"teacher"}
     ]
 }
