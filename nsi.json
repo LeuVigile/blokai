@@ -65,7 +65,7 @@
         {"nom":"bonhomme de neige","reponse1":"snowman","reponse2":"snow","reponse3":"winter","reponse4":"chimney"},
         {"nom":"cheminee","reponse1":"chimney","reponse2":"sleight","reponse3":"ribbon","reponse4":"star"},
         {"nom":"traineau","reponse1":"sleight","reponse2":"merry christmas","reponse3":"toys","reponse4":"bell"},
-        {"nom":"une hotte","reponse1":"holly","reponse2":"star","reponse3":"bell","reponse4":"candle"},
+        {"nom":"une hotte","reponse1":"holly","reponse2":"star","reponse3":"bell","reponse4":"candle"}
     ],
     "ecole": [
         {"nom":"ecole","reponse1":"school","reponse2":"class","reponse3":"teacher","reponse4":"truant"},
